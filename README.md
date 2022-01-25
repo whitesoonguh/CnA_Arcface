@@ -1,7 +1,8 @@
 # CnA_Arcface
-Cryptology and Algorithm Lab. ArcFace
+Cryptology and Algorithm Lab. ArcFace    
 Seunghun Paik
 
+<hr/>
 
 ## Configs
 - Batch Size: 64
@@ -10,6 +11,7 @@ Seunghun Paik
 - Weight Decay: TBW
 - Learning Rate Decay: backbone-0.93, header-0.85
 
+<hr/>
 
 ## Performance
 - TBW
